@@ -1,17 +1,3 @@
-<div align="center">
-<img src="https://via.placeholder.com/140" width="140" style="border-radius: 50%;" alt="Foto de perfil"/>
-</div>
-
-<br>
-
-\`\`\`
-$ whoami
-irenealcalaserrano — SOC Analyst Junior / Blue Team
-Ubicación: Jaén, España
-Formación: KeepCoding CS11 — Ciberseguridad
-\`\`\`
-
-<br>
 
 ## 📡 Perfil
 
