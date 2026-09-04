@@ -1,7 +1,6 @@
-
 ## 📡 Perfil
 
-Analista Junior de Ciberseguridad orientada a Blue Team y SOC. Vengo del Trabajo Social, un cambio de carrera que me da una forma distinta de leer un incidente: no solo el log, también el impacto. Me muevo cómoda en la parte de detección — correlacionar eventos en el SIEM, triage de alertas, threat intel — y en la investigación posterior cuando hay que reconstruir qué pasó.
+Analista Junior de Ciberseguridad orientada a Blue Team y SOC. Me muevo cómoda en la parte de detección — correlacionar eventos en el SIEM, triage de alertas, threat intel — y en la investigación posterior cuando hay que reconstruir qué pasó.
 
 <br>
 
